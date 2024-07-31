@@ -210,6 +210,61 @@ CCTV17,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/1.m3u
 纪实科教,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 河南梨园,http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
 
+酷狗音乐,#genre#
+周杰伦 - 兰亭序,https://cfss.cc/api/kg/B4567BE61EADF9D0A872B194ADDEBA52.mp4
+周杰伦 - 晴天,https://cfss.cc/api/kg/3B1F32C55F9774501794213C09168A18.mp4
+周杰伦 - 稻香,https://cfss.cc/api/kg/FE06D19D564ECF0A16FC72447E1E82E5.mp4
+周杰伦 - 夜曲,https://cfss.cc/api/kg/FEFD599DF8886873B5708562CFFF4D43.mp4
+周杰伦 - 青花瓷,https://cfss.cc/api/kg/F973F02AEDA7F6B0F90F0872F27F040E.mp4
+周杰伦 - 说好的幸福呢,https://cfss.cc/api/kg/230DF039446EB997C9331F7D6CE8CB98.mp4
+周杰伦 - 七里香,https://cfss.cc/api/kg/93C8E52BFF734A3CD8C035191670A6DF.mp4
+周杰伦 - 蒲公英的约定,https://cfss.cc/api/kg/D64FED58CB27EDFC59807C825794AA4B.mp4
+周杰伦 - 花海,https://cfss.cc/api/kg/92D6EE9DE3B3129AB748063B9F1AD068.mp4
+周杰伦 - 告白气球,https://cfss.cc/api/kg/1B43BAAF79C20489C85DEF55E2BA7AF0.mp4
+周杰伦 - 听妈妈的话,https://cfss.cc/api/kg/7D76F88D36D2BA1B19E8CA9F627872F1.mp4
+周杰伦 - 最伟大的作品,https://cfss.cc/api/kg/476E84590D6D14E2C9B3603F9555770C.mp4
+周杰伦 - 东风破,https://cfss.cc/api/kg/A487D4F8245034FBF783537AAAECE66E.mp4
+
+周深 - 如愿,https://cfss.cc/api/kg/7396CB31C120280542B6D8942A24B534.mp4
+周深 - 卧龙吟,https://cfss.cc/api/kg/7AD4C8ACCFAF319182C2BF53FFC45B27.mp4
+周深 - 大鱼,https://cfss.cc/api/kg/4B26B5A1DE454A9DEA4BA0F65D802810.mp4
+
+陈奕迅 - 孤勇者,https://cfss.cc/api/kg/881FAE86595A12CCE6D05667F97EB8D8.mp4
+陈奕迅 - 十年,https://cfss.cc/api/kg/2F73065F992ADD4B001BDFC200FAE853.mp4
+陈奕迅 - 浮夸,https://cfss.cc/api/kg/74689EE6DD4645A51901D3D138FCF7F1.mp4
+陈奕迅 - 岁月如歌,https://cfss.cc/api/kg/D874FFA9F1B9C4D92BA53C16A3EE759C.mp4
+
+林俊杰 - 可惜没如果,https://cfss.cc/api/kg/C6131BD6A99E7CACA24832172DCAA4B7.mp4
+林俊杰 - 起风了,https://cfss.cc/api/kg/C50A336A1CA0186EE6AF72E5FC8E9F1F.mp4
+林俊杰 - 交换余生,https://cfss.cc/api/kg/62825A481A7FC145BB996160EEA094F1.mp4
+林俊杰 - 修炼爱情,https://cfss.cc/api/kg/59417883B4254493B990BC55CF21E98A.mp4
+林俊杰 - 美人鱼,https://cfss.cc/api/kg/43134E65D1D99F41597E57B121E65FBF.mp4
+林俊杰 - 我们的爱,https://cfss.cc/api/kg/90690BC504BBB8E9A40D247FFA140E56.mp4
+林俊杰 - 江南,https://cfss.cc/api/kg/9F62C7C23A2FA3E7B81D1A58EE7E2458.mp4
+林俊杰 - 我怀念的,https://cfss.cc/api/kg/A425FB6A21B2557BDA2A8E73F568F0A3.mp4
+林俊杰 - 曹操,https://cfss.cc/api/kg/50435B4E7A511FF7FE83C95BFE38F5A2.mp4
+
+张学友 - 吻别,https://cfss.cc/api/kg/8013469BC191F4F51BD98537E510A80D.mp4
+张学友 - 一千个伤心的理由,https://cfss.cc/api/kg/8E74AF49470C05B77D51D3BE85E4773A.mp4
+张学友 - 只有你不知道,https://cfss.cc/api/kg/15CC3769060A185A9BAFFDFA081FE6C9.mp4
+
+刘德华 - 爱火烧不尽,https://cfss.cc/api/kg/126B12396092C777593735DED91F63AB.mp4
+刘德华 - 今天,https://cfss.cc/api/kg/AEC1927E8FF5EC1D4538D257147276C3.mp4
+刘德华 - 爱你一万年,https://cfss.cc/api/kg/D758D878F6F7E7F748D3E63E37985384.mp4
+刘德华 - 上海滩,https://cfss.cc/api/kg/9AE9F6D876BCE0F127A9A56D514D42B0.mp4
+刘德华 - 谢谢你的爱,https://cfss.cc/api/kg/D4B4CA7008B701B5CB9BE3E3C7C4925D.mp4
+刘德华 - 冰雨,https://cfss.cc/api/kg/4A73414EBA924CFCEA5E11B6379AEB8E.mp4
+
+周传雄 - 黄昏,https://cfss.cc/api/kg/1600AAC0D7CEDC9CE9B8516ED7FBF668.mp4
+周传雄 - 寂寞沙洲冷,https://cfss.cc/api/kg/0E6928F3EB4C735B8F888620122EFF49.mp4
+周传雄 - 青花,https://cfss.cc/api/kg/762F9997E169E259E2AA0C150D46AE79.mp4
+周传雄 - 关不上的窗,https://cfss.cc/api/kg/762C989FE4CE09A123519988632EAB93.mp4
+周传雄 - 我的心太乱,https://cfss.cc/api/kg/0908328DE54E76F9B7159E9880EF4F48.mp4
+周传雄 - 冬天的秘密,https://cfss.cc/api/kg/AC4180A8649B6A4ED3658251038850D8.mp4
+
+
+
+
 历年春晚,#genre#
 春晚1983,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
 春晚1984,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
